@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Forecasted well 442 using FB-Prophet
 
-[Link](url) and ![Image](src)
+(https://github.com/darioromero/sbFcFB/blob/master/Rplot_442.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
