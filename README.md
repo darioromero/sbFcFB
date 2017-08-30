@@ -1,3 +1,4 @@
+
 # sbFcFB - Forecasting with Facebook Prophet - on GitHub Pages
 
  Use of package Prophet from Facebook for Forecasting
@@ -11,7 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Forecasted well 442 using FB-Prophet
 
-(https://github.com/darioromero/sbFcFB/blob/master/Rplot_442.png)
+![Well 442](/Rplot_442.png)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
